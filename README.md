@@ -3,5 +3,5 @@ Exploring the world of 3D graphics and creating a 3D game from scratch without u
 Languages Libraries and Framworks used:
 - C++
 - OpenGL
-- SFML 2.5.1
+- SFML 2.5.1.
 This is an ongoing effort and more features and functionality will be added from time to time :)
