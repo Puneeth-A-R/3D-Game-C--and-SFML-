@@ -4,3 +4,4 @@ Languages Libraries and Framworks used:
 - C++
 - OpenGL
 - SFML 2.5.1
+This is an ongoing effort and more features and functionality will be added from time to time :)
