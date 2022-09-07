@@ -1,2 +1,6 @@
 # 3D-Game-C-and-SFML-
 Exploring the world of 3D graphics and creating a 3D game from scratch without using any game engines like Unity or Unreal Engine5 etc...
+Languages Libraries and Framworks used:
+- C++
+- OpenGL
+- SFML 2.5.1
